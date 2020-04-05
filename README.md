@@ -1,2 +1,2 @@
 # deneme
-web teknolojileri projesi hakkında dökümanlar
+web teknolojileri projesi süreci için oluşturduğum GitHub hesabı ve yaptığım denemeler.
